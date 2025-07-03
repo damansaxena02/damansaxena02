@@ -17,10 +17,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/daman-saxena)
 
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</div>
-
 
 ## 🚀 Tech Stack
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -34,19 +30,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+</div>
 
 ## 💻 Projects
-
-| Project Name       | Tech Used                  | Description                      |
-|--------------------|----------------------------|----------------------------------|
-| Netflix Clone      | HTML, CSS                  | A responsive Netflix homepage UI |
-| Spotify Clone      | HTML, CSS, JavaScript      | Clone of Spotify landing page    |
-| To-Do App          | React.js, Tailwind CSS     | A functional task manager app    |
-| Twitter UI Clone   | Tailwind CSS               | Simple Twitter homepage clone    |
-
----
 <div align="center">
-
 ### 🎬 Netflix Clone
 - Technologies: HTML5, CSS3
 - Features: Responsive design, Movie catalog, User-friendly interface
