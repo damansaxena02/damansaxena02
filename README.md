@@ -11,11 +11,15 @@
 ## 🙋‍♂ About Me
 
 - 🎓 I’m a MERN Stack Developer
+  
 - 👨‍💻 I love building Full-Stack Projects using MongoDB, Express.js, React, and Node.js
+  
 - 🌱 Currently sharpening my skills with real-world projects
-- 📬 Email: damansaxena09@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/daman-saxena)
-
+  
+- 🤖 I'm using AI and exploring new things
+  
+-  <p align=""> <a href="mailto:damansaxena09@gmail.com"> <img src="https://img.shields.io/badge/Gmail-damansaxena09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"            alt="Email Badge"/> </a>
+-  <a href="https://www.linkedin.com/in/daman-saxena" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Devendra%20Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </p>
 ---
 
 ## 🚀 Tech Stack
@@ -34,33 +38,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
-## 💻 Projects
-<div align="center">
-
-  
-### 🎬 Netflix Clone
-- Technologies: HTML5, CSS3
-- Features: Responsive design, Movie catalog, User-friendly interface
-- Highlights: Pixel-perfect UI replication, Mobile-responsive
-
-### 🎵 Spotify Clone  
-- Technologies: HTML5, CSS3, JavaScript
-- Features: Music player interface, Playlist management
-- Highlights: Interactive music controls, Beautiful UI
-
-### ✅ Todo List Application
-- Technologies: React.js, Tailwind CSS
-- Features: Task management, Real-time updates, Modern UI
-- Highlights: Component-based architecture, Responsive design
-
-### 🐦 Twitter Clone
-- Technologies: Tailwind CSS
-- Features: Social media interface, Tweet functionality
-- Highlights: Modern design, Mobile-first approach
-
-</div>
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -73,8 +50,8 @@
 ## 🧭 Let's Connect
 
 <p align="center">
-  <a href="mailto:damansaxena09@gmail.com"><img src="https://img.shields.io/badge/Gmail-DamanSaxena09-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/daman-saxena"><img src="https://img.shields.io/badge/LinkedIn-DamanSaxena-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:damansaxena09@gmail.com"><img src="https://img.shields.io/badge/Gmail-DamanSaxena09-green?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daman-saxena"><img src="https://img.shields.io/badge/LinkedIn-Devendrasaxena-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
