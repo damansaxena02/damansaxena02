@@ -36,6 +36,8 @@
 
 ## 💻 Projects
 <div align="center">
+
+  
 ### 🎬 Netflix Clone
 - Technologies: HTML5, CSS3
 - Features: Responsive design, Movie catalog, User-friendly interface
