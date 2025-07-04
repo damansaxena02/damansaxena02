@@ -19,7 +19,7 @@
 - 🤖 I'm using AI and exploring new things
   
 -  <p align=""> <a href="mailto:damansaxena09@gmail.com"> <img src="https://img.shields.io/badge/Gmail-damansaxena09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"            alt="Email Badge"/> </a>
--  <a href="https://www.linkedin.com/in/daman-saxena" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Devendra%20Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </p>
+-  <a href="https://www.linkedin.com/in/devendra-saxena-b07262241/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Devendra%20Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </p>
 ---
 
 ## 🚀 Tech Stack
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="mailto:damansaxena09@gmail.com"><img src="https://img.shields.io/badge/Gmail-DamanSaxena09-green?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/daman-saxena"><img src="https://img.shields.io/badge/LinkedIn-Devendrasaxena-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/devendra-saxena-b07262241/"><img src="https://img.shields.io/badge/LinkedIn-Devendrasaxena-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
